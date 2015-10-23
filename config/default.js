@@ -2,9 +2,9 @@
 'use strict';
 var config = {
   'rethinkdb': {
-    'host': 'localhost',
+    'host': 'rethinkdb.thejsj.com',
     'port': 28015,
-    'db': 'rethinkdb_workshop'
+    'db': 'chovy_rethinkdb_workshop'
   },
   'ports' : {
     'http' : 8000
